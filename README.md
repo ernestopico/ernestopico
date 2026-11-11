@@ -26,7 +26,7 @@ Land a software engineering internship for Summer 2027 and keep building project
 - LinkedIn: linkedin.com/in/ernestopico
 
 ## Featured Projects
-
+- **[tennis-tournament-db](https://github.com/ernestopico/tennis-tournament-db)** — MySQL tournament database with joins, set operators, and correlated subqueries
 - **[a-star-pathfinding](https://github.com/ernestopico/a-star-pathfinding)** — A* search with a custom-built min-binary-heap for grid-based pathfinding
 - **[java-calendar-system](https://github.com/ernestopico/java-calendar-system)** — Meeting scheduler with conflict detection using TreeSet
 - **[java-social-network](https://github.com/ernestopico/java-social-network)** — BFS-based social graph analyzer
