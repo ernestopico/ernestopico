@@ -11,9 +11,10 @@ I'm a Computer Science & Mathematics student at Christian Brothers University (M
 
 ## 🛠️ Skills & Tools
 
-- **Languages & Concepts:** Java, Python, C, SQL, Object-Oriented Programming, Data Structures & Algorithms
-- **Back-End & Architecture:** Relational Databases, MySQL, Node.js, React
-- **Tools:** Git, Linux
+* **Languages & Concepts:** Java, Python, C, SQL, Object-Oriented Programming, Data Structures & Algorithms
+* **Back-End & Databases:** Node.js, MySQL, Relational Databases
+* **Front-End:** React
+* **Tools:** Git, Linux
 
 ## 🎯 2027 Goal
 
