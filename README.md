@@ -7,7 +7,7 @@ I'm a Computer Science & Mathematics student at Christian Brothers University (M
 - 🎓 Junior, double majoring in Computer Science & Mathematics (Engineering concentration), GPA: 3.73
 - 🎾 Member of the CBU Men's Tennis Team
 - 🌎 Originally from Ecuador, studying in the United States
-- 🗣️ Bilingual: Spanish (native) | English (native)
+- 🗣️ Bilingual: Spanish (native) | English (fluent)
 
 ## 🛠️ Skills & Tools
 
